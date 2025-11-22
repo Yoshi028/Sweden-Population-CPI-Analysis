@@ -33,26 +33,29 @@ population growth and inflation (CPI increase rate) from 2010 to 2024.
   but the relationship is not strong
 
 ## 🧾 Contents
-project/
-│
-├── data/ ← Raw and processed datasets
-├── output/ ← Generated charts (PNG)
-├── report/ ← Full written report (PDF)
+project/  
+│  
+├── data/ ← Raw and processed datasets  
+├── output/ ← Generated charts (PNG)  
+├── report/ ← Full written report (PDF)  
 └── scripts/ ← Analysis scripts
 
-📁 Available Visualizations
-Population growth trend (2010–2024)
-CPI growth trend (2010–2024)
-Population Growth Rate vs CPI Growth Rate (2010–2024)
-Scatter plot: CPI vs population growth
-Regression plot (with regression line)
+## 📁 Available Visualizations  
+Population growth trend (2010–2024)  
+CPI growth trend (2010–2024)  
+Population Growth Rate vs CPI Growth Rate (2010–2024)  
+Scatter plot: CPI vs population growth  
+Regression plot (with regression line)  
 
-📚 Requirements
-Python 3.9+
-pandas
-seaborn
-matplotlib
+## 📚 Requirements
+Python 3.9+  
+pandas  
+seaborn  
+matplotlib  
 
-✍ Author
-Yoshihiro Tsunoda
+## ✍ Author  
+Yoshihiro Tsunoda  
 2025-11-22
+
+## 📄 License  
+MIT License
