@@ -65,7 +65,7 @@ This report examines whether fluctuations in CPI show a measurable impact on Swe
 ## 3. Results
 
 ### 3.1 National Population Trend (2010–2024)
-<img src="Sweden-Population-CPI-Analysis/output/population_trend.png">
+![Population Trend](../output/population_trend.png)
 **Figure 1. National population growth in Sweden (2010–2024)**
 
 Sweden’s population increased steadily from approximately **9.4 million** in 2010 to **10.6 million** in 2024. Although the population grows every year, the pace of growth gradually slows over the period.
@@ -73,6 +73,7 @@ Sweden’s population increased steadily from approximately **9.4 million** in 2
 ---
 
 ### 3.2 National CPI Trend (2010–2024)
+![CPI Trend](../output/cpi_trend.png)  
 **Figure 2. Swedish CPI trend (2010–2024)**
 
 CPI rises from around **308** in 2010 to **41**7 in 2024. Growth remained moderate—typically below **2%** annually—until 2020. Sharp increases occurred from 2020 to 2022, reaching a peak of **+12%** in 2022 before stabilizing.
@@ -80,6 +81,7 @@ CPI rises from around **308** in 2010 to **41**7 in 2024. Growth remained modera
 ---
 
 ### 3.3 Comparison of Population and CPI Growth Rates (2010–2024)
+![Population growth vs CPI growth compaared](../output/population_vs_cpi_growth_rate.png)   
 **Figure 3. Population growth vs CPI growth compaared (time series)**
 
 Key observations:
@@ -92,12 +94,13 @@ This suggests a possible relationship where higher inflation aligns with slower 
 ---
 
 ### 3.4 Scatter Plot of Population Growth vs CPI Growth
+![Scatter plot of CPI vs population growth](../output/population_vs_cpi_(2010-2024).png)
 **Figure 4. Scatter plot of CPI vs population growth**
 
 The data shows no strong linear pattern.   
 The correlation coefficient is:
 
-    **r ≈ –0.25**
+    r ≈ –0.25
 
 This indicates a **weak negative correlation**, meaning:
 
@@ -107,6 +110,7 @@ This indicates a **weak negative correlation**, meaning:
 ---
 
 ### 3.5 Regression Analysis (CPI → Population Growth)
+![Regression line fitted on CPI and population growth](../output/population_vs_cpi_regression.png)
 **Figure 5. Regression line fitted on CPI and population growth**
 
 - Regression coefficient: **–0.026**  
