@@ -65,6 +65,7 @@ This report examines whether fluctuations in CPI show a measurable impact on Swe
 ## 3. Results
 
 ### 3.1 National Population Trend (2010–2024)
+<img src="Sweden-Population-CPI-Analysis/output/population_trend.png">
 **Figure 1. National population growth in Sweden (2010–2024)**
 
 Sweden’s population increased steadily from approximately **9.4 million** in 2010 to **10.6 million** in 2024. Although the population grows every year, the pace of growth gradually slows over the period.
