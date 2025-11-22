@@ -10,7 +10,7 @@ population growth and inflation (CPI increase rate) from 2010 to 2024.
 - Summarize insights in a structured research report
 
 ## 📊 Dataset
-- Source: Public international datasets  
+- Source: Statistics Sweden (SCB) 
 - Period: 2010–2024  
 - Variables used:
   - CPI growth rate (%)
