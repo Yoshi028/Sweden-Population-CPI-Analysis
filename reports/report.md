@@ -51,14 +51,14 @@ This report examines whether fluctuations in CPI show a measurable impact on Swe
       cpi_growth_rate = CPI.pct_change() * 100
 3. Merge population and CPI datasets by year.
 4. Create visualizations:
-- National population trend (2010–2024)
-- National CPI trend (2010–2024)
-- Comparison of population and CPI growth rates (time series)
-- Scatter plot of population vs CPI growth
-- Regression plot with fitted line
+    - National population trend (2010–2024)
+    - National CPI trend (2010–2024)
+    - Comparison of population and CPI growth rates (time series)
+    - Scatter plot of population vs CPI growth
+    - Regression plot with fitted line
 5. Perform a simple linear regression using:
-- **Explanatory variable (X):** CPI growth rate  
-- **Response variable (Y):** Population growth rate
+    - **Explanatory variable (X):** CPI growth rate  
+    - **Response variable (Y):** Population growth rate
 
 ---
 
@@ -96,7 +96,7 @@ This suggests a possible relationship where higher inflation aligns with slower 
 The data shows no strong linear pattern.   
 The correlation coefficient is:
 
-**r ≈ –0.25**
+    **r ≈ –0.25**
 
 This indicates a **weak negative correlation**, meaning:
 
