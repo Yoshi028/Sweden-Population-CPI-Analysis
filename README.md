@@ -1,4 +1,4 @@
-# Sweden-Population-CPI-Analysis
+# Sweden Population CPI Analysis
 
 This repository contains a data analysis project examining the relationship between
 population growth and inflation (CPI increase rate) from 2010 to 2024.
